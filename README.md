@@ -44,8 +44,8 @@ Currently focused on developing my portfolio with **Power BI**, **SQL Server**, 
 
 ## 📫 Contact Me
 
-- Email: youremail@example.com *(replace with yours)*
-- LinkedIn: [My LinkedIn](https://linkedin.com/in/yourprofile)
+- Email: anahitarasouli3@gmail.com
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/anahita-rasouli1/))
 - GitHub: [@anahitarsl](https://github.com/anahitarsl)
 
 ---
